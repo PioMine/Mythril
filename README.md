@@ -33,7 +33,7 @@ Tab Previews (On 2.5sec hover over tab)
 Onboarding
 Animations
 
-### Instalation
+### Installation
 
 The instalation should be straightforward, but as Mythril is still in development it might be complicated at first. 
 
